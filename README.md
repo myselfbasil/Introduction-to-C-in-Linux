@@ -117,13 +117,3 @@ Here’s a summary of all commands used in this process:
 ### Conclusion
 
 Understanding each step of the compilation process in C on Linux helps developers optimize their code and troubleshoot issues effectively. Each stage plays a crucial role in transforming high-level source code into an executable binary that can be run on a computer. By manually executing these steps, programmers gain deeper insights into how their code is processed and executed by the system.
-
-Citations:
-[1] https://www.linkedin.com/pulse/understanding-compilation-process-c-from-source-code-anamika-sanjay
-[2] https://www.javatpoint.com/compilation-process-in-c
-[3] https://www.tutorialspoint.com/cprogramming/c_compilation_process.htm
-[4] https://www.scaler.com/topics/c/compilation-process-in-c/
-[5] https://www.prepbytes.com/blog/c-programming/compilation-process-in-c/
-[6] https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/
-[7] https://www.geeksforgeeks.org/how-to-compile-and-run-a-c-c-code-in-linux/
-[8] https://www.geeksforgeeks.org/structure-of-c-program/
