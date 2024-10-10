@@ -1,6 +1,6 @@
 ## Introduction to C in Linux
 
-This document serves as a comprehensive guide to understanding the C programming language within the Linux operating system. It covers fundamental concepts, tools, and practices that are essential for developing efficient and effective C applications in a UNIX-like environment.
+This document is a thorough guide to understanding the C programming language in the Linux operating system. It explores key concepts, tools, and practices necessary for building efficient and robust C applications in a UNIX-like environment.
 
 ### Table of Contents
 
