@@ -492,6 +492,28 @@ int main() {
 
 ```
 
+### **Submission**
+
+Once you have completed the exercise, compile your program using GCC:
+
+```
+gcc -o memory_management memory_management.c
+```
+
+Run your program:
+
+```
+./memory_management
+```
+
+Make sure to test your program with different input values to ensure it works correctly.
+
+### **Additional Resources**
+
+For more details and examples, refer to the GitHub repository linked in Chapter 3:
+
+[GitHub Repository](https://github.com/myselfbasil/Introduction-to-C-in-Linux)
+
 ---
 
 Drop a 🖤 if you can. Thank you reading this.
